@@ -1,0 +1,64 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+body {
+    background-color: #c7dedf;
+}
+
+.rightColumnTable {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#currentMoneyIn {
+    text-align: center;
+    display: inline-block;
+}
+
+th,
+td {
+    padding: 7px;
+}
+
+.item {
+    background-color: #6fc6a5;
+    color: #c7dedf;
+    font-weight: bold;
+    border: 3px solid #929f98;
+    padding: 20px;
+}
+
+    .item:hover {
+        background-color: #d4d926;
+        color: #000;
+        font-weight: bolder;
+        border: 3px solid #b7a570;
+        cursor: pointer;
+    }
+
+.masterListContainer {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.idDisplay {
+    text-align: left;
+}
+
+.nameDisplay, .quantityDisplay, .priceDisplay {
+    text-align: center;
+}
+
+button {
+    background-color: #d4d926;
+}
+
+    button:hover {
+        cursor: pointer;
+        background-color: antiquewhite;
+    }

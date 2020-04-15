@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Sales";
+}
+
+<h2>Sales Report</h2>
+<br />
+<div class="container">
+
+    <div class="row FilterRow">
+        <form>
+            <div class="col-sm-12">
+                <div class="row">
+                    <h4>Filters</h4>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <label for="users">User </label>
+                        <select id="users"></select>
+                    </div>
+                    <div class="col-sm-4">
+                        <label for="dateFrom">From Date </label>
+                        <input type="date" id="dateFrom" />
+                    </div>
+                    <div class="col-sm-4">
+                        <label for="dateTo">To Date </label>
+                        <input type="date" id="dateTo" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <button type="button" onclick="UpdateSearchResults()">Search</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div id="searchResults">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">User</th>
+                    <th scope="col">Total Sales</th>
+                    <th scope="col">Total Vehicles</th>
+                </tr>
+            </thead>
+            <tbody id="resultsRows">
+
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+
+@section customcss{
+    <style>
+        .FilterRow {
+            border: thin solid;
+            margin: 5px;
+            padding: 5px;
+        }
+    </style>
+}
+
+@section scripts{
+    <script src="~/Scripts/reportssales.js"></script>
+}

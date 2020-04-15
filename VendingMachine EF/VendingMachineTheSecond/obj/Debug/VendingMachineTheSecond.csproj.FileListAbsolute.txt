@@ -1,0 +1,186 @@
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\VendingMachineTheSecond.dll.config
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\VendingMachineTheSecond.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\VendingMachineTheSecond.pdb
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csc.exe
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csc.exe.config
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csc.rsp
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csi.exe
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csi.exe.config
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\csi.rsp
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.AppContext.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Console.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.IO.Compression.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Net.Http.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.ValueTuple.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\vbc.exe
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\vbc.exe.config
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\vbc.rsp
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\VBCSCompiler.exe
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Antlr3.Runtime.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Newtonsoft.Json.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Net.Http.Formatting.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Helpers.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.WebHost.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Mvc.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Optimization.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Razor.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.Razor.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\WebGrease.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Newtonsoft.Json.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Net.Http.Formatting.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Helpers.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.WebHost.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Mvc.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Optimization.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Razor.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.WebPages.Razor.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Antlr3.Runtime.pdb
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csprojAssemblyReference.cache
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csproj.CopyComplete
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.pdb
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Cors.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.Cors.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\System.Web.Http.Cors.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\EntityFramework.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\EntityFramework.SqlServer.dll
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\EntityFramework.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\bin\EntityFramework.SqlServer.xml
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.Migrations.init.resources
+C:\Users\moor0\source\repos\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csproj.GenerateResource.cache
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\VendingMachineTheSecond.dll.config
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\VendingMachineTheSecond.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\VendingMachineTheSecond.pdb
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csc.exe
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csc.exe.config
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csc.rsp
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csi.exe
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csi.exe.config
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\csi.rsp
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.AppContext.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Console.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.IO.Compression.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Net.Http.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.ValueTuple.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\vbc.exe
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\vbc.exe.config
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\vbc.rsp
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\VBCSCompiler.exe
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Antlr3.Runtime.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\EntityFramework.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\EntityFramework.SqlServer.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Newtonsoft.Json.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Net.Http.Formatting.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Cors.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Helpers.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.Cors.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.WebHost.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Mvc.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Optimization.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Razor.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.Razor.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\WebGrease.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\EntityFramework.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\EntityFramework.SqlServer.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.Cors.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Newtonsoft.Json.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Net.Http.Formatting.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Helpers.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Http.WebHost.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Mvc.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Optimization.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.Razor.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\System.Web.WebPages.Razor.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Antlr3.Runtime.pdb
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csprojAssemblyReference.cache
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.Migrations.init.resources
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csproj.GenerateResource.cache
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.csproj.CopyComplete
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.dll
+C:\Users\moor0\OneDrive\Desktop\Projects for Github\VendingMachine EF\VendingMachineTheSecond\obj\Debug\VendingMachineTheSecond.pdb

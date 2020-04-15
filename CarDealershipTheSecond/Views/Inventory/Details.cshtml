@@ -1,0 +1,56 @@
+﻿@model CarDealershipTheSecond.Models.Results.Vehicle
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Vehicle Details</h2>
+<div class="container vehicleinfo">
+    <div class="row">
+        <div class="col-sm-3">
+            <b>@Model.Year @Model.Make @Model.Model</b><br />
+            <img src=@("../Images/Vehicles/"+@Model.VIN+".jpg") style="width:90%" />
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Body Style: </b>@Model.Style<br />
+            <b>Trans: </b>@Model.Transmission<br />
+            <b>Color: </b>@Model.ExColor
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Interior: </b>@Model.InColor<br />
+            <b>Mileage: </b>@Model.Mileage<br />
+            <b>VIN: </b><span style="font-size: .85em;">@Model.VIN</span>
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Sale Price: $</b>@Model.SalePrice
+            <b>MSRP: $</b>@Model.MSRP
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+
+        </div>
+        <div class="col-sm-9">
+            <b>Description: </b>@Model.Description
+        </div>
+    </div>
+    <div class="row">
+        <button onclick="location.href = 'https://localhost:44386/Home/ContactUs/3TMCZ5AN7GM033983';" type="button" style="float:right;margin:15px;">Contact Us</button>
+    </div>
+</div>
+
+@section customcss{
+    <style>
+        .vehicleinfo {
+            border: thin solid;
+            padding: 10px;
+        }
+    </style>
+}
+

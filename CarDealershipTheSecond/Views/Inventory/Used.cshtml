@@ -1,0 +1,134 @@
+﻿
+@{
+    ViewBag.Title = "Used";
+}
+
+<div class="container">
+    <h2>Used Vehicles</h2>
+    <form>
+        <div class="row" id="newquicksearch">
+            <div class="col-sm-12">
+                <div class="row">
+                    <h4>Quick Search</h4>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <input type="text" id="newSearchText" placeholder="Enter make, model, or year" size="25" value="" />
+                    </div>
+                    <div class="col-sm-4">
+                        <label for="minPrice">Price</label>
+                        <select id="minPrice">
+                            <option value="0" selected>No Min</option>
+                            <option value="5000">$5000</option>
+                            <option value="10000">$10000</option>
+                            <option value="15000">$15000</option>
+                            <option value="20000">$20000</option>
+                            <option value="25000">$25000</option>
+                            <option value="30000">$30000</option>
+                            <option value="35000">$35000</option>
+                            <option value="40000">$40000</option>
+                            <option value="45000">$45000</option>
+                            <option value="50000">$50000</option>
+                        </select>
+                        <select id="maxPrice">
+                            <option value="100000000" selected>No Max</option>
+                            <option value="5000">$5000</option>
+                            <option value="10000">$10000</option>
+                            <option value="15000">$15000</option>
+                            <option value="20000">$20000</option>
+                            <option value="25000">$25000</option>
+                            <option value="30000">$30000</option>
+                            <option value="35000">$35000</option>
+                            <option value="40000">$40000</option>
+                            <option value="45000">$45000</option>
+                            <option value="50000">$50000</option>
+                        </select>
+                    </div>
+                    <div class="col-sm-4">
+                        <label for="minYear">Year</label>
+                        <select id="minYear">
+                            <option value="1999" selected>No Min</option>
+                            <option value="2000">2000</option>
+                            <option value="2001">2001</option>
+                            <option value="2002">2002</option>
+                            <option value="2003">2003</option>
+                            <option value="2004">2004</option>
+                            <option value="2005">2005</option>
+                            <option value="2006">2006</option>
+                            <option value="2007">2007</option>
+                            <option value="2008">2008</option>
+                            <option value="2009">2009</option>
+                            <option value="2010">2010</option>
+                            <option value="2011">2011</option>
+                            <option value="2012">2012</option>
+                            <option value="2013">2013</option>
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018">2018</option>
+                            <option value="2019">2019</option>
+                            <option value="2020">2020</option>
+                            <option value="2021">2021</option>
+                        </select>
+                        <select id="maxYear">
+                            <option value="2000">2000</option>
+                            <option value="2001">2001</option>
+                            <option value="2002">2002</option>
+                            <option value="2003">2003</option>
+                            <option value="2004">2004</option>
+                            <option value="2005">2005</option>
+                            <option value="2006">2006</option>
+                            <option value="2007">2007</option>
+                            <option value="2008">2008</option>
+                            <option value="2009">2009</option>
+                            <option value="2010">2010</option>
+                            <option value="2011">2011</option>
+                            <option value="2012">2012</option>
+                            <option value="2013">2013</option>
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018">2018</option>
+                            <option value="2019">2019</option>
+                            <option value="2020">2020</option>
+                            <option value="2021">2021</option>
+                            <option value="2021" selected>No Max</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4 text-center">
+                        <button type="button" id="submitquicksearchbutton">Search</button>
+                    </div>
+                    <div class="col-sm-4"></div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+    <h2>Search Results</h2>
+    <div id="searchResults">
+
+    </div>
+</div>
+@section customcss{
+    <style>
+        #newquicksearch {
+            border: solid thin;
+            padding: 10px;
+        }
+
+        .resultsRow {
+            border: solid thin;
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+}
+
+@section scripts{
+    <script src="~/Scripts/UsedInventory.js"></script>
+}

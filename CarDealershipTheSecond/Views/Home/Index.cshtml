@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <br />
+    <br />
+
+    <a href="~/Home/Specials">
+        <div id="index-carousel" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" id="specialscontainer">
+
+            </div>
+        </div>
+    </a>
+    <br />
+    <h3>Featured Vehicles</h3>
+    <br />
+    <div id="featuredvehicles">
+
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/homeindex.js"></script>
+}
+
+@section customcss{
+    <style>
+        .carousel-caption {
+            margin: auto;
+            padding: 20% 0 20% 0;
+        }
+
+        .featuredpicture {
+            display: block;
+            padding-top: 10px;
+            padding-bottom: 5px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 75px;
+        }
+
+        .featuredYMM {
+            text-align: center;
+        }
+
+        .featuredPrice {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .featuredBox {
+            margin-top: 50px;
+        }
+    </style>
+}

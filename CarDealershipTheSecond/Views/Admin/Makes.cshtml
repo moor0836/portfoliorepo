@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Makes";
+}
+
+
+
+<div class="container">
+    <div class="row">
+        <h2>Makes</h2>
+    </div>
+    <div class="row">
+        <div class="col-sm-5" id="makeform">
+            <form>
+                <div class="row">
+                    <div class="col-sm-3 center">
+                        <label for="newMakeName">New Make </label>
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="text" id="newMakeName" />
+                    </div>
+                    <div class="col-sm-3">
+                        <button type="button" id="savenewmakebutton" onclick="SaveNewMake()">Save</button>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <input type="text" id="Salesperson" value=@User.Identity.GetUserName() readonly>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-sm-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Make</th>
+                        <th scope="col">Date Added</th>
+                        <th scope="col">User</th>
+                    </tr>
+                </thead>
+                <tbody id="makestablebody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/adminmakes.js"></script>
+}
+
+@section customcss{
+    <style>
+        #makeform {
+            border: thin solid;
+            padding: 5px;
+            margin: 5px;
+        }
+
+        .center {
+            margin: auto;
+        }
+
+        #Salesperson {
+            display: none;
+        }
+    </style>
+}

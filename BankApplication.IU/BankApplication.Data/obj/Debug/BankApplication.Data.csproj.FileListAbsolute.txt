@@ -1,0 +1,5 @@
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Data\bin\Debug\BankApplication.Data.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Data\bin\Debug\BankApplication.Data.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Data\obj\Debug\BankApplication.Data.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Data\obj\Debug\BankApplication.Data.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Data\obj\Debug\BankApplication.Data.csprojAssemblyReference.cache

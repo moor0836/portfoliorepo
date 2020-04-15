@@ -1,0 +1,11 @@
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.IU.exe.config
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.IU.exe
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.IU.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.Data.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.Logic.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.Data.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\bin\Debug\BankApplication.Logic.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\obj\Debug\BankApplication.UI.csprojAssemblyReference.cache
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\obj\Debug\BankApplication.UI.csproj.CopyComplete
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\obj\Debug\BankApplication.IU.exe
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.IU\obj\Debug\BankApplication.IU.pdb

@@ -1,0 +1,17 @@
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\nunit.engine.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Tests.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Tests.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Data.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Logic.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\nunit.framework.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Data.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\BankApplication.Logic.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\bin\Debug\nunit.framework.xml
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\obj\Debug\BankApplication.Tests.csprojAssemblyReference.cache
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\obj\Debug\BankApplication.Tests.csproj.CopyComplete
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\obj\Debug\BankApplication.Tests.dll
+C:\Users\moor0\source\repos\BankApplication.IU\BankApplication.Tests\obj\Debug\BankApplication.Tests.pdb

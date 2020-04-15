@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "Specials";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="row">
+                <h2>Specials</h2>
+            </div>
+            <div class="row specialrow">
+                <form>
+                    <div class="col-sm-2">
+                        <div class="row">
+                            <label for="newSpecialTitle">Title</label>
+                        </div><div class="row">
+                            <label for="newDescription">Description</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div class="row">
+                            <input type="text" id="newSpecialTitle" />
+                        </div>
+                        <div class="row">
+                            <textarea id="newDescription" rows="5"></textarea>
+                        </div>
+                        <div class="row">
+                            <button type="button" onclick="SaveNewSpecial()">Save</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-sm-12" id="specialscontainer">
+            @*div for rows of special results*@
+        </div>
+
+    </div>
+</div>
+
+@section customcss{
+    <style>
+        .specialrow {
+            border: thin solid;
+            margin: 5px;
+            padding: 10px;
+        }
+
+        .deletebutton {
+            background-color: red;
+            border: solid thin;
+            border-color: darkred;
+            float: right;
+        }
+    </style>
+
+
+}
+
+@section scripts{
+
+    <script src="~/Scripts/adminspecials.js"></script>
+}
+
+

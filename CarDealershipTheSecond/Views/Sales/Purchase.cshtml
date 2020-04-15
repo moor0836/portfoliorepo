@@ -1,0 +1,227 @@
+﻿@model CarDealershipTheSecond.Models.Results.Vehicle
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Purchase";
+}
+
+<h2>Purchase</h2>
+<div class="container vehicleinfo">
+    <div class="row">
+        <div class="col-sm-3">
+            <b>@Model.Year @Model.Make @Model.Model</b><br />
+            <img src=@("../Images/Vehicles/"+@Model.VIN+".jpg") style="width:90%" />
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Body Style: </b>@Model.Style<br />
+            <b>Trans: </b>@Model.Transmission<br />
+            <b>Color: </b>@Model.ExColor
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Interior: </b>@Model.InColor
+            <b><br />Mileage: </b>@Model.Mileage
+            <b><br />VIN: </b><span id="VIN" style="font-size: .85em;">@Model.VIN</span>
+        </div>
+        <div class="col-sm-3">
+            <br />
+            <br />
+            <b>Sale Price: $</b>@Model.SalePrice
+            <b><br />MSRP: $</b>@Model.MSRP
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+
+        </div>
+        <div class="col-sm-9">
+            <b>Description: </b>@Model.Description
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<div class="container">
+    <form>
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="Name">Name</label>
+            </div>
+            <div class="col-sm-3">
+                <label for="Phone">Phone</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="text" id="Name" />
+            </div>
+            <div class="col-sm-3">
+                <input type="text" id="Phone" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="Email">Email</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="text" id="Email" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="Street1">Street 1</label>
+            </div>
+            <div class="col-sm-3">
+                <label for="Street2">Streeet 2</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="text" id="Street1" />
+            </div>
+            <div class="col-sm-3">
+                <input type="text" id="Street2" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="City">City</label>
+            </div>
+            <div class="col-sm-3">
+                <label for="State">State</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="text" id="City" />
+            </div>
+            <div class="col-sm-3">
+                <select id="State">
+                    <option value="AK">AK</option>
+                    <option value="AL">AL</option>
+                    <option value="AR">AR</option>
+                    <option value="AZ">AZ</option>
+                    <option value="CA">CA</option>
+                    <option value="CO">CO</option>
+                    <option value="CT">CT</option>
+                    <option value="DC">DC</option>
+                    <option value="DE">DE</option>
+                    <option value="FL">FL</option>
+                    <option value="GA">GA</option>
+                    <option value="HI">HI</option>
+                    <option value="IA">IA</option>
+                    <option value="ID">ID</option>
+                    <option value="IL">IL</option>
+                    <option value="IN">IN</option>
+                    <option value="KS">KS</option>
+                    <option value="KY">KY</option>
+                    <option value="LA">LA</option>
+                    <option value="MA">MA</option>
+                    <option value="MD">MD</option>
+                    <option value="ME">ME</option>
+                    <option value="MI">MI</option>
+                    <option value="MN">MN</option>
+                    <option value="MO">MO</option>
+                    <option value="MS">MS</option>
+                    <option value="MT">MT</option>
+                    <option value="NC">NC</option>
+                    <option value="ND">ND</option>
+                    <option value="NE">NE</option>
+                    <option value="NH">NH</option>
+                    <option value="NJ">NJ</option>
+                    <option value="NM">NM</option>
+                    <option value="NV">NV</option>
+                    <option value="NY">NY</option>
+                    <option value="OH">OH</option>
+                    <option value="OK">OK</option>
+                    <option value="OR">OR</option>
+                    <option value="PA">PA</option>
+                    <option value="RI">RI</option>
+                    <option value="SC">SC</option>
+                    <option value="SD">SD</option>
+                    <option value="TN">TN</option>
+                    <option value="TX">TX</option>
+                    <option value="UT">UT</option>
+                    <option value="VA">VA</option>
+                    <option value="VT">VT</option>
+                    <option value="WA">WA</option>
+                    <option value="WI">WI</option>
+                    <option value="WV">WV</option>
+                    <option value="WY">WY</option>
+                </select>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="Zip">Zip Code</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="text" id="Zip" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="PurchasePrice">Purchase Price</label>
+            </div>
+            <div class="col-sm-3">
+                <label for="FinanceType">Purchase Type</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <input type="number" min="0" max="1000000" step=".01" id="PurchasePrice" value=@Model.SalePrice />
+            </div>
+            <div class="col-sm-3">
+                <select id="FinanceType">
+                    @*javscript should fill in*@
+                </select>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-6">
+                <button type="button" id="purchaseVehicleButton">Save</button>
+            </div>
+        </div>
+        <input type="text" id="Salesperson" value=@User.Identity.GetUserName() readonly>
+        <input type="number" id="MSRPCHECK" value=@Model.MSRP readonly />
+    </form>
+
+</div>
+
+@section customcss{
+    <style>
+        .vehicleinfo {
+            border: thin solid;
+            padding: 10px;
+        }
+
+        #Salesperson {
+            display: none;
+        }
+
+        #MSRPCHECK {
+            display: none;
+        }
+    </style>
+}
+
+@section scripts{
+    <script src="~/Scripts/salespurchase.js"></script>
+}

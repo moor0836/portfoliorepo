@@ -1,0 +1,121 @@
+﻿@model CarDealershipTheSecond.Models.FileUploadViewModel
+
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add Vehicle</h2>
+<div class="container">
+    <form>
+        <div class="row">
+            <div class="col-sm-5">
+                @*left column*@
+                <label for="Make">Make</label><br />
+                <select id="Make" onchange="PopulateModelItems()">
+                    <option disabled selected hidden> -- select make -- </option>
+                    @*javascript should fill in the options*@
+                </select>
+                <br />
+                <br />
+                <label for="Type">Type</label><br />
+                <select id="Type">
+                    <option disabled selected hidden>-- choose inventory type --</option>
+                    <option value="new">New</option>
+                    <option value="used">Used</option>
+                </select>
+                <br />
+                <br />
+                <label for="Year">Year</label><br />
+                <input type="number" id="Year" min="2000" max="2021" increment="1" />
+                <br />
+                <br />
+                <label for="ExColor">Color</label><br />
+                <select id="ExColor"></select>
+                <br />
+                <br />
+                <label for="Mileage">Mileage</label><br />
+                <input type="number" id="Mileage" min="0" max="1000000" increment="1" />
+                <br />
+                <br />
+                <label for="MSRP">MSRP</label><br />
+                <input type="number" id="MSRP" min="0" max="1000000" increment=".01" />
+                <br />
+                <br />
+            </div>
+            <div class="col-sm-5">
+                @*right column*@
+                <label for="Model">Model</label><br />
+                <select id="Model" onchange="UpdateBodyStyle()">
+                    <option> -- choose make first -- </option>
+                    @*javascript fills in model options once make is selected*@
+                </select>
+
+                <br />
+                <br />
+                <label for="Body Style">Body Style</label><br />
+                <select id="BodyStyle">
+                    <option selected disabled hidden> -- select make and model --</option>
+                </select>
+                <br />
+                <br />
+                <label for="Transmission">Transmission</label><br />
+                <select id="Transmission">
+                    <option selected disabled hidden>-- choose transmission type --</option>
+                    <option value="Automatic">Automatic</option>
+                    <option value="Manual">Manual</option>
+                </select>
+                <br />
+                <br />
+                <label for="InColor">Interior</label><br />
+                <select id="InColor"></select>
+                <br />
+                <br />
+                <label for="VIN">VIN #</label><br />
+                <input type="text" id="VIN" onchange="UpdateModelVIN()"/>
+                <br />
+                <br />
+                <label for="SalePrice">Sale Price</label><br />
+                <input type="number" id="SalePrice" min="0" max="1000000" increment=".01" />
+                <br />
+            </div>
+        </div>
+
+        <div class="row">
+            @*Description row*@
+            <div class="col-sm-10">
+                <label for="Description">Description</label><br />
+                <textarea id="Description" cols="40" rows="6">New to our lot!!!</textarea>
+            </div>
+        </div>
+    </form>
+    @using (Html.BeginForm("addvehicle", "admin", FormMethod.Post, FormMethod.Post,
+        new { enctype = "multipart/form-data", id = "frmUpload" }))
+    {
+        <div class="form-group">
+            <label>Picture: </label>
+
+            @Html.TextBoxFor(m => m.UploadedFile,
+           new { type="file", id="uploadFile", @class = "form-control"})
+            @Html.TextBoxFor(m=>m.VIN,
+           new { type = "text", id="modelVIN", @class = "form-control" })
+
+        </div>
+
+        @*<button class="button" onclick="validateFileType()">Upload File</button>*@
+    }
+    <div class="row">
+        <button type="button" onclick="SaveAll()">Save</button>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/adminadd.js"></script>
+}
+
+@section customcss{
+    <style>
+        #modelVIN {
+            display:none;
+        }
+    </style>
+    }

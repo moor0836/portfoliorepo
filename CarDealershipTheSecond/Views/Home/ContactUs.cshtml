@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+<h2>@ViewBag.Title.</h2>
+
+<div class="container">
+    <div class="col-sm-5">
+        <form>
+            <div class="row">
+                <label for="Name">Name</label>
+            </div>
+            <div class="row">
+                <input type="text" style="width:227px;" id="Name" />
+            </div>
+            <div class="row">
+                <label for="Email">Email</label>
+            </div>
+            <div class="row">
+                <input type="text" style="width:227px;" id="Email" />
+            </div>
+            <div class="row">
+                <label for="Phone">Phone</label>
+            </div>
+            <div class="row">
+                <input type="text" style="width:227px;" id="Phone" />
+            </div>
+            <div class="row">
+                <label for="Message">Message</label>
+            </div>
+            <div class="row">
+                <textarea id="Message" cols="30" rows="5" ></textarea>
+            </div>
+            <div class="row">
+                <button type="button" id="submitcontactusbutton">Submit</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-sm-7">
+            <img src="../Images/LocatorImage.jpg" style="width:100%;margin:auto" onclick="OpenNewWindowGMaps()">
+    </div>
+</div>
+@section scripts{
+
+    <script src="~/Scripts/homecontactus.js"></script>
+}

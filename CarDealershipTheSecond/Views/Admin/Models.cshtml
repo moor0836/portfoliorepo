@@ -1,0 +1,98 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Models";
+}
+
+<div class="container">
+    <div class="row">
+        <h2>Models</h2>
+    </div>
+    <div class="row">
+        <div class="col-sm-12" id="modelform">
+            <form>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label for="newModelName">New Model </label>
+                    </div>
+                    <div class="col-sm-2">
+                        <input type="text" id="newModelName" />
+                    </div>
+                </div>
+                <div class="row">
+
+                    <div class="col-sm-2">
+                        <label for="BodyStyle">Style </label>
+                    </div>
+                    <div class="col-sm-2">
+                        <select id="BodyStyle">
+                            @*javascript to fill in*@
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label for="MakeName">Make </label>
+                    </div>
+                    <div class="col-sm-2">
+                        <select id="MakeName">
+                            @*javascript to fill in*@
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <button type="button" id="savenewmodelbutton" onclick="SaveNewModel()">Save</button>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <input type="text" id="Salesperson" value=@User.Identity.GetUserName() readonly>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-sm-5">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Make</th>
+                        <th scope="col">Model</th>
+                        <th scope="col">Date Added</th>
+                        <th scope="col">User</th>
+                    </tr>
+                </thead>
+                <tbody id="modelstablebody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/adminmodels.js"></script>
+}
+
+@section customcss{
+    <style>
+        #makeform {
+            border: thin solid;
+            padding: 5px;
+            margin: 5px;
+        }
+
+        .center {
+            margin: auto;
+        }
+
+        #Salesperson {
+            display: none;
+        }
+    </style>
+}
